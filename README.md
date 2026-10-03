@@ -1,22 +1,131 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aden Abdi Farah
-========================================================================================================================================
+# Hi 👋, I'm Aden Farah
 
-IT Student | Cloud & DevOps Enthusiast
---------------------------------------
+### Cloud & DevOps-focused IT Student | Building toward Platform Engineering
 
-IT student at OsloMet focused on cloud, DevOps and platform engineering. I enjoy building practical projects around deployment, automation, monitoring and infrastructure using tools like Azure, Docker, Python and GitHub Actions.
+I'm an Information Technology student at OsloMet with a strong interest in
+**Cloud, DevOps and Platform Engineering**.
 
-Most of my projects come from things I want to understand better in practice, from building APIs and containerized applications to setting up CI/CD pipelines and observability. I’m still learning, but I like building things properly, breaking them, fixing them and understanding why they work.
+I learn best by building. Most of my projects start with a problem I want to
+understand and grow into hands-on experience with containers, CI/CD,
+infrastructure, monitoring and cloud deployment.
 
-* 🌍  I'm based in Oslo,Norway
-* 🖥️  See my portfolio at [adenfarah.no](http://adenfarah.no)
-* ✉️  You can contact me at [aden.farah.dev@gmail.com](mailto:aden.farah.dev@gmail.com)
-* 🧠  I'm currently learning DevOps practices, cloud infrastructure, automation, observability and how platform teams build reliable developer experiences as a Platform Engineer.
+My long-term goal is to work in **Platform Engineering**, helping developers
+build, deploy and operate software through reliable internal platforms and
+automation.
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+## 🚀 What I'm focused on
 
-<p align="left"> <a href="https://www.github.com/aden-farah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aden-farah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+- ☁️ Building and deploying applications in **Microsoft Azure**
+- 🐳 Containerization with **Docker & Docker Compose**
+- ⚙️ Infrastructure as Code with **Terraform**
+- 🔄 CI/CD with **GitHub Actions**
+- 📊 Monitoring and observability with **Prometheus & Grafana**
+- 🐧 Improving my **Linux** and cloud infrastructure skills
+- ☸️ Learning **Kubernetes** and working toward deploying projects on **AKS**
+- 🏗️ Learning the foundations of **Platform Engineering**
+
+I’m currently learning through hands-on projects, university coursework,
+documentation and platforms such as **KodeKloud**.
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔗 URL Shortener — Cloud / DevOps Project
+
+A FastAPI URL-shortening application built with a PostgreSQL database and
+containerized development environment.
+
+**Current stack:**  
+`Python` `FastAPI` `PostgreSQL` `Docker` `Git` `GitHub Actions`
+
+**Roadmap:**  
+`Terraform` → `Azure deployment` → `Monitoring` → `Security scanning` → `AKS`
+
+The goal of this project is not only to build an application, but to take it
+through a complete DevOps lifecycle from local development to cloud
+infrastructure and eventually Kubernetes.
+
+---
+
+### 📊 System Status Dashboard
+
+A containerized monitoring project built to understand how applications and
+infrastructure are monitored in real environments.
+
+**Stack:**  
+`Python` `Flask` `Docker Compose` `Prometheus` `Grafana`
+`Node Exporter` `Terraform` `Azure`
+
+Built dashboards for CPU, memory, disk usage, uptime and application health,
+while learning how metrics flow from applications and infrastructure into
+Prometheus and Grafana.
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio deployed using **Azure Static Web Apps** with automated
+deployment through **GitHub Actions**.
+
+**Stack:**  
+`HTML` `CSS` `JavaScript` `Azure` `GitHub Actions`
+
+🌍 [adenfarah.no](https://adenfarah.no)
+
+---
+
+## 💻 Tech I'm Working With
+
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### DevOps & Observability
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🧭 Where I'm Heading
+
+Right now my main focus is **Cloud & DevOps**.
+
+I'm gradually building toward **Platform Engineering**, with a learning path
+around:
+
+`Linux` → `Docker` → `CI/CD` → `Terraform` → `Azure` → `Kubernetes` → `AKS` → `Platform Engineering`
+
+I'm especially interested in understanding how platform teams create
+**reliable developer experiences, automation and self-service infrastructure**.
+
+---
+
+## 🎯 Currently
+
+- 🎓 Studying Information Technology at **OsloMet**
+- ☁️ Building practical Cloud & DevOps projects
+- ☸️ Learning Kubernetes
+- 🏗️ Exploring Platform Engineering concepts
+- 📚 Learning through **KodeKloud**, documentation and hands-on labs
+- 💼 Interested in internships and junior opportunities in Cloud, DevOps and Platform Engineering
+
+---
+
+## 🤝 Connect with me
+
+🌐 [Portfolio](https://adenfarah.no)  
+💼 [LinkedIn](YOUR_LINKEDIN_URL)  
+📧 [Email](mailto:aden.farah.dev@gmail.com)
