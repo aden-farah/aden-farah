@@ -127,5 +127,5 @@ I'm especially interested in understanding how platform teams create
 ## 🤝 Connect with me
 
 🌐 [Portfolio](https://adenfarah.no)  
-💼 [LinkedIn](www.linkedin.com/in/aden-farah)  
+💼 [LinkedIn](https://www.linkedin.com/in/aden-farah/)  
 📧 [Email](mailto:aden.farah.dev@gmail.com)
