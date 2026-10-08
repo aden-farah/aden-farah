@@ -1,6 +1,7 @@
-# Hi, I'm Aden 👋
+# Hi, I'm Aden 👋 
+## IT Student | Cloud Infrastructure, DevOps & Automation
 
-I'm an IT student at **OsloMet** in Oslo, Norway, interested in **Cloud, DevOps and infrastructure**.
+I'm an IT student at **OsloMet**, interested in **Cloud Infrastructure, DevOps and Automation**.
 
 I like building projects to understand what happens beyond writing code: how applications are deployed, monitored and kept running. Most of my hands-on work so far has been with Azure, Docker, CI/CD and infrastructure as code.
 
