@@ -1,97 +1,65 @@
-# Hi 👋, I'm Aden Farah
+# Hi, I'm Aden 👋
 
-### Cloud & DevOps-focused IT Student | Building toward Platform Engineering
+I'm an IT student at **OsloMet** in Oslo, Norway, interested in **Cloud, DevOps and infrastructure**.
 
-I'm an Information Technology student at OsloMet with a strong interest in
-**Cloud, DevOps and Platform Engineering**.
+I like building projects to understand what happens beyond writing code: how applications are deployed, monitored and kept running. Most of my hands-on work so far has been with Azure, Docker, CI/CD and infrastructure as code.
 
-I learn best by building. Most of my projects start with a problem I want to
-understand and grow into hands-on experience with containers, CI/CD,
-infrastructure, monitoring and cloud deployment.
+Long term, I'd like to work in **Platform Engineering**, especially on internal developer platforms (IDPs) that make it easier for developers to build, deploy and run their applications.
 
-My long-term goal is to work in **Platform Engineering**, helping developers
-build, deploy and operate software through reliable internal platforms and
-automation.
+💼 Open to internships and junior roles in Cloud and DevOps.
 
----
-
-## 🚀 What I'm focused on
-
-- ☁️ Building and deploying applications in **Microsoft Azure**
-- 🐳 Containerization with **Docker & Docker Compose**
-- ⚙️ Infrastructure as Code with **Terraform**
-- 🔄 CI/CD with **GitHub Actions**
-- 📊 Monitoring and observability with **Prometheus & Grafana**
-- 🐧 Improving my **Linux** and cloud infrastructure skills
-- ☸️ Learning **Kubernetes** and working toward deploying projects on **AKS**
-- 🏗️ Learning the foundations of **Platform Engineering**
-
-I’m currently learning through hands-on projects, university coursework,
-documentation and platforms such as **KodeKloud**.
-
----
-
-## 🛠️ Featured Projects
-
-### 🔗 URL Shortener — Cloud / DevOps Project
-
-A FastAPI URL-shortening application built with a PostgreSQL database and
-containerized development environment.
-
-**Current stack:**  
-`Python` `FastAPI` `PostgreSQL` `Docker` `Git` `GitHub Actions`
-
-**Roadmap:**  
-`Terraform` → `Azure deployment` → `Monitoring` → `Security scanning` → `AKS`
-
-The goal of this project is not only to build an application, but to take it
-through a complete DevOps lifecycle from local development to cloud
-infrastructure and eventually Kubernetes.
-
----
+## 🚀 Projects
 
 ### 📊 System Status Dashboard
 
-A containerized monitoring project built to understand how applications and
-infrastructure are monitored in real environments.
+A Flask status dashboard monitored with Prometheus, Grafana, Node Exporter and cAdvisor, running in Docker Compose. Grafana dashboards and alert rules cover CPU, memory, disk usage, uptime and application metrics.
 
-**Stack:**  
-`Python` `Flask` `Docker Compose` `Prometheus` `Grafana`
-`Node Exporter` `Terraform` `Azure`
+- **Pipeline:** GitHub Actions runs pytest, builds the Docker image, scans it with Trivy (the build fails on serious findings) and pushes it to GHCR
+- **Infrastructure:** provisioned on Azure with Terraform, with SSH-key-only access and a scoped network security group
+- **Deployment:** GitHub Actions authenticates to Azure with OIDC, so no long-lived secrets are stored in the repo
 
-Built dashboards for CPU, memory, disk usage, uptime and application health,
-while learning how metrics flow from applications and infrastructure into
-Prometheus and Grafana.
+**Stack:** `Python` `Flask` `Docker Compose` `Prometheus` `Grafana` `Node Exporter` `cAdvisor` `Terraform` `Azure` `GitHub Actions` `Trivy`
 
----
+📂 **[View repository](https://github.com/aden-farah/system-status-dashboard)**
+
+### 🔗 URL Shortener
+
+A URL shortening service built with **FastAPI and PostgreSQL**, running locally with Docker Compose and a persistent database volume. I'm using it to go from a working application to an automated cloud deployment, doing the infrastructure work step by step.
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
+
+**Next:** `Terraform` → `Azure deployment` → `Monitoring` → `Security scanning` → `AKS`
+
+📂 **[View repository](https://github.com/aden-farah/url-shortener-cicd)**
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio deployed using **Azure Static Web Apps** with automated
-deployment through **GitHub Actions**.
+My personal website, hosted on Azure Static Web Apps and deployed through GitHub Actions.
 
-**Stack:**  
-`HTML` `CSS` `JavaScript` `Azure` `GitHub Actions`
+**Stack:** `HTML` `CSS` `JavaScript` `Azure` `GitHub Actions`
 
-🌍 [adenfarah.no](https://adenfarah.no)
+🌍 **[adenfarah.no](https://adenfarah.no)**
 
 ---
 
-## 💻 Tech I'm Working With
+## 🛠️ Tools & Technologies
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### DevOps & Observability
+### 🔄 CI/CD & Observability
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Development
+### 💻 Languages & Databases
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -99,32 +67,11 @@ deployment through **GitHub Actions**.
 
 ---
 
-## 🧭 Where I'm Heading
+## 📚 Currently Learning
 
-Right now my main focus is **Cloud & DevOps**.
+I'm learning more about **Kubernetes, Linux and cloud infrastructure**, with the goal of eventually moving my projects to **Azure Kubernetes Service (AKS)**.
 
-I'm gradually building toward **Platform Engineering**, with a learning path
-around:
-
-`Linux` → `Docker` → `CI/CD` → `Terraform` → `Azure` → `Kubernetes` → `AKS` → `Platform Engineering`
-
-I'm especially interested in understanding how platform teams create
-**reliable developer experiences, automation and self-service infrastructure**.
-
----
-
-## 🎯 Currently
-
-- 🎓 Studying Information Technology at **OsloMet**
-- ☁️ Building practical Cloud & DevOps projects
-- ☸️ Learning Kubernetes
-- 🏗️ Exploring Platform Engineering concepts
-- 📚 Learning through **KodeKloud**, documentation and hands-on labs
-- 💼 Interested in internships and junior opportunities in Cloud, DevOps and Platform Engineering
-
----
-
-## 🤝 Connect with me
+## 🤝 Connect
 
 🌐 [Portfolio](https://adenfarah.no)  
 💼 [LinkedIn](https://www.linkedin.com/in/aden-farah/)  
