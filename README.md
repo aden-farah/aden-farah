@@ -1,11 +1,11 @@
 # Hi, I'm Aden 👋 
 ## IT Student | Cloud Infrastructure, DevOps & Automation
 
-I'm an IT student at **OsloMet**, interested in **Cloud Infrastructure, DevOps and Automation**.
+I build and automate infrastructure, containerized applications, and deployment workflows.
 
-I like building projects to understand what happens beyond writing code: how applications are deployed, monitored and kept running. Most of my hands-on work so far has been with Azure, Docker, CI/CD and infrastructure as code.
+I'm interested in what happens beyond writing code — provisioning infrastructure, automating CI/CD pipelines, monitoring services, and making deployments more reliable.
 
-Long term, I'd like to work in **Platform Engineering**, especially on internal developer platforms (IDPs) that make it easier for developers to build, deploy and run their applications.
+Currently working with Azure, Terraform, Docker, GitHub Actions, and observability tools, with a long-term goal of becoming a Platform Engineer and building internal developer platforms that improve the developer experience.
 
 💼 Open to internships and junior roles in Cloud and DevOps.
 
@@ -70,7 +70,8 @@ My personal website, hosted on Azure Static Web Apps and deployed through GitHub
 
 ## 📚 Currently Learning
 
-I'm learning more about **Kubernetes, Linux and cloud infrastructure**, with the goal of eventually moving my projects to **Azure Kubernetes Service (AKS)**.
+- **Kubernetes & Cloud Infrastructure** — learning more about container orchestration and working toward deploying my projects on Azure Kubernetes Service (AKS).
+- **Platform Engineering** — exploring how automation, infrastructure, and deployment workflows can make life easier for developers.
 
 ## 🤝 Connect
 
